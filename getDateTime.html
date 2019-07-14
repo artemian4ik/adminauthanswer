@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<script type="text/javascript">
+var d = new Date();
+var day = d.getDate();
+var month = d.getMonth() + 1;
+var year = d.getFullYear();
+d.setHours( d.getHours() + 3, d.getMinutes() + d.getTimezoneOffset()  );
+document.write("{\"time\":\"" + day + "." + month + "." + year + " " + d.toTimeString().substring(0,8) + "\"}");
+ </script>
+</body>
+</html>
