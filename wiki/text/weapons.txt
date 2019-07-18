@@ -1,0 +1,44 @@
+Weapon Name: First\nModel: -\nSlot: 0 \nID: 0
+Weapon Name: Brass Knuckles\nModel: 331\nSlot: 0\nID: 1
+Weapon Name: Golf Club\nModel: 333 \nSlot: 1\nID: 2
+Weapon Name: Nightstick\nModel: 334\nSlot: 1\nID: 3
+Weapon Name: Knife\nModel: 335\nSlot: 1\nID: 4
+Weapon Name: Baseball Bat\nModel: 336\nSlot: 1 \nID: 5
+Weapon Name: Shovel \nModel: 337\nSlot: 1\nID: 6
+Weapon Name: Pool Cue\nModel: 338\nSlot: 1\nID: 7
+Weapon Name: Katana\nModel: 339\nSlot: 1\nID: 8
+Weapon Name: Chainsaw\nModel: 341\nSlot: 1\nID: 9
+Weapon Name: Purple Dildo\nModel: 321\nSlot: 10\nID: 10
+Weapon Name: Dildo\nModel: 322\nSlot: 10 \nID: 11
+Weapon Name: Vibrator \nModel: 323\nSlot: 10\nID: 12
+Weapon Name: Silver Vibrator\nModel: 324\nSlot: 10\nID: 13
+Weapon Name: Flowers\nModel: 325\nSlot: 10\nID: 14
+Weapon Name: Cane\nModel: 326\nSlot: 10\nID: 15
+Weapon Name: Grenade\nModel: 342\nSlot: 8\nID: 16
+Weapon Name: Tear Gas\nModel: 343\nSlot: 8\nID: 17
+Weapon Name: Molotov Cocktail\nModel: 344\nSlot: 8\nID: 18
+Weapon Name: 9mm\nModel: 346\nSlot: 2\nID: 22
+Weapon Name: Silenced 9mm\nModel: 347\nSlot: 2\nID: 23
+Weapon Name: Desert Eagle\nModel: 348\nSlot: 2\nID: 24
+Weapon Name: Shotgun\nModel: 349\nSlot: 3\nID: 25
+Weapon Name: Sawnoff Shotgun\nModel: 350\nSlot: 3\nID: 26
+Weapon Name: Combat Shotgun\nModel: 351\nSlot: 3\nID: 27
+Weapon Name: Micro Uzi \nModel: 352\nSlot: 4 \nID: 28
+Weapon Name: MP5\nModel: 353\nSlot: 4\nID: 29
+Weapon Name: AK-47\nModel: 355\nSlot: 5\nID: 30
+Weapon Name: M4A1\nModel: 356\nSlot: 5\nID: 31
+Weapon Name: Tec-9\nModel: 372\nSlot: 4\nID: 32
+Weapon Name: Country Rifle\nModel: 357\nSlot: 6\nID: 33
+Weapon Name: Spiner Rifle \nModel: 358\nSlot: 6\nID: 34
+Weapon Name: RPG\nModel: 359\nSlot: 7\nID: 35
+Weapon Name: HS Rocket\nModel: 360 \nSlot: 7\nID: 36
+Weapon Name: Flamethrower\nModel: 361\nSlot: 7\nID: 37
+Weapon Name: Minigun\nModel: 362\nSlot: 7\nID: 38
+Weapon Name: Satchel Charge\nModel: 363\nSlot: 8\nID: 39
+Weapon Name: Detonator\nModel: 364 \nSlot: 12\nID: 40
+Weapon Name: Spraycan\nModel: 365\nSlot: 9\nID: 41
+Weapon Name: Fire Extinguisher\nModel: 366\nSlot: 9\nID: 42
+Weapon Name: Camera\nModel: 367\nSlot: 9\nID: 43
+Weapon Name: Night Vis Goggles\nModel: 368\nSlot: 11\nID: 44
+Weapon Name: Thermal Goggles\nModel: 369\nSlot: 11\nID: 45
+Weapon Name: Parachute\nModel: 371\nSlot: 11\nID: 46

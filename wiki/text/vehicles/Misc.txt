@@ -1,0 +1,3 @@
+Vehicle Model ID: 504\nVehicle Name: Bloodring Banger\nCategory: Saloons\nModifications: None\nModel name: bloodra / bloodrb
+Vehicle Model ID: 503\nVehicle Name: Hotring Racer B\nCategory: Sport Vehicles\nModifications: None\nModel name: hotrinb
+Vehicle Model ID: 594\nVehicle Name: RC Cam\nCategory: RC Vehicles\nModifications: None\nModel name: rccam

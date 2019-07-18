@@ -1,0 +1,10 @@
+Vehicle Model ID: 472\nVehicle Name: Coastguard\nCategory: Boats\nModifications: None\nModel name: coastg
+Vehicle Model ID: 473\nVehicle Name: Dinghy\nCategory: Boats\nModifications: None\nModel name: dinghy
+Vehicle Model ID: 493\nVehicle Name: Jetmax\nCategory: Boats\nModifications: None\nModel name: jetmax
+Vehicle Model ID: 595\nVehicle Name: Launch\nCategory: Boats\nModifications: None\nModel name: launch
+Vehicle Model ID: 484\nVehicle Name: Marquis\nCategory: Boats\nModifications: None\nModel name: marquis
+Vehicle Model ID: 430\nVehicle Name: Predator\nCategory: Boats\nModifications: None\nModel name: predator
+Vehicle Model ID: 453\nVehicle Name: Reefer\nCategory: Boats\nModifications: None\nModel name: reefer
+Vehicle Model ID: 452\nVehicle Name: Speeder\nCategory: Boats\nModifications: None\nModel name: speeder
+Vehicle Model ID: 446\nVehicle Name: Squallo\nCategory: Boats\nModifications: None\nModel name: squalo
+Vehicle Model ID: 454\nVehicle Name: Tropic\nCategory: Boats\nModifications: None\nModel name: tropic

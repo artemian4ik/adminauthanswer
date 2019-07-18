@@ -1,0 +1,20 @@
+Vehicle Model ID: 592\nVehicle Name: Andromada\nCategory: Airplane\nModifications: None\nModel name: androm
+Vehicle Model ID: 577\nVehicle Name: AT400\nCategory: Airplane\nModifications: None\nModel name: at400
+Vehicle Model ID: 511\nVehicle Name: Beagle\nCategory: Airplane\nModifications: None\nModel name: beagle
+Vehicle Model ID: 548\nVehicle Name: Cargobob\nCategory: Helicopters\nModifications: None\nModel name: cargobob
+Vehicle Model ID: 512\nVehicle Name: Cropduster\nCategory: Airplane\nModifications: None\nModel name: cropdust
+Vehicle Model ID: 593\nVehicle Name: Dodo\nCategory: Airplane\nModifications: None\nModel name: dodo
+Vehicle Model ID: 425\nVehicle Name: Hunter\nCategory: Helicopters\nModifications: None\nModel name: hunter
+Vehicle Model ID: 520\nVehicle Name: Hydra\nCategory: Airplane\nModifications: None\nModel name: hydra
+Vehicle Model ID: 417\nVehicle Name: Leviathan\nCategory: Helicopters\nModifications: None\nModel name: leviathn
+Vehicle Model ID: 553\nVehicle Name: Nevada\nCategory: Airplane\nModifications: None\nModel name: nevada
+Vehicle Model ID: 488\nVehicle Name: SAN News Maverick\nCategory: Helicopters\nModifications: None\nModel name: vcnmav
+Vehicle Model ID: 487\nVehicle Name: Maverick\nCategory: Helicopters\nModifications: None\nModel name: maverick
+Vehicle Model ID: 497\nVehicle Name: Police Maverick\nCategory: Helicopters\nModifications: None\nModel name: polmav
+Vehicle Model ID: 563\nVehicle Name: Raindance\nCategory: Helicopters\nModifications: None\nModel name: raindanc
+Vehicle Model ID: 476\nVehicle Name: Rustler\nCategory: Airplane\nModifications: None\nModel name: rustler
+Vehicle Model ID: 447\nVehicle Name: Seasparrow\nCategory: Helicopters\nModifications: None\nModel name: seaspar
+Vehicle Model ID: 519\nVehicle Name: Shamal\nCategory: Airplane\nModifications: None\nModel name: shamal
+Vehicle Model ID: 460\nVehicle Name: Skimmer\nCategory: Airplane\nModifications: None\nModel name: skimmer
+Vehicle Model ID: 469\nVehicle Name: Sparrow\nCategory: Helicopters\nModifications: None\nModel name: sparrow
+Vehicle Model ID: 513\nVehicle Name: Stuntplane\nCategory: Airplane\nModifications: None\nModel name: stunt

@@ -1,0 +1,14 @@
+Vehicle Model ID: 602\nVehicle Name: Alpha\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: alpha
+Vehicle Model ID: 429\nVehicle Name: Banshee\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: banshee
+Vehicle Model ID: 402\nVehicle Name: Buffalo\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: buffalo
+Vehicle Model ID: 541\nVehicle Name: Bullet\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: bullet
+Vehicle Model ID: 415\nVehicle Name: Cheetah\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: cheetah
+Vehicle Model ID: 480\nVehicle Name: Comet\nCategory: Convertibles\nModifications: Transfender\nModel name: comet
+Vehicle Model ID: 587\nVehicle Name: Euros\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: euros
+Vehicle Model ID: 434\nVehicle Name: Hotknife\nCategory: Unique Vehicles\nModifications: None\nModel name: hotknife
+Vehicle Model ID: 411\nVehicle Name: Infernus\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: infernus
+Vehicle Model ID: 603\nVehicle Name: Phoenix\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: phoenix
+Vehicle Model ID: 506\nVehicle Name: Super GT\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: supergt
+Vehicle Model ID: 451\nVehicle Name: Turismo\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: turismo
+Vehicle Model ID: 555\nVehicle Name: Windsor\nCategory: Convertibles\nModifications: Transfender\nModel name: windsor
+Vehicle Model ID: 477\nVehicle Name: ZR-350\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: zr350

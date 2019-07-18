@@ -1,0 +1,7 @@
+Vehicle Model ID: 591\nVehicle Name: Article Trailer 3\nCategory: Trailers\nModifications: None\nModel name: artict3
+Vehicle Model ID: 606\nVehicle Name: Baggage Trailer "A"\nCategory: Trailers\nModifications: None\nModel name: bagboxa
+Vehicle Model ID: 607\nVehicle Name: Baggage Trailer "B"\nCategory: Trailers\nModifications: None\nModel name: bagboxb
+Vehicle Model ID: 590\nVehicle Name: Freight Box Trailer (Train)\nCategory: Trailers\nModifications: None\nModel name: freibox
+Vehicle Model ID: 610\nVehicle Name: Farm Trailer\nCategory: Trailers\nModifications: None\nModel name: farmtr1
+Vehicle Model ID: 569\nVehicle Name: Freight Flat Trailer (Train)\nCategory: Trailers\nModifications: None\nModel name: freiflat
+Vehicle Model ID: 450\nVehicle Name: Article Trailer 2\nCategory: Trailers\nModifications: None\nModel name: artict2

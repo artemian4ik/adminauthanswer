@@ -1,0 +1,5 @@
+Vehicle Model ID: 441\nVehicle Name: RC Bandit\nCategory: RC Vehicles\nModifications: None\nModel name: rcbandit
+Vehicle Model ID: 464\nVehicle Name: RC Baron\nCategory: RC Vehicles\nModifications: None\nModel name: rcbaron
+Vehicle Model ID: 501\nVehicle Name: RC Goblin\nCategory: RC Vehicles\nModifications: None\nModel name: rcgoblin
+Vehicle Model ID: 465\nVehicle Name: RC Raider\nCategory: RC Vehicles\nModifications: None\nModel name: rcraider
+Vehicle Model ID: 564\nVehicle Name: RC Tiger\nCategory: RC Vehicles\nModifications: None\nModel name: rctiger

@@ -1,0 +1,12 @@
+Vehicle Model ID: 581\nVehicle Name: BF-400\nCategory: Bikes\nModifications: None\nModel name: bf400
+Vehicle Model ID: 509\nVehicle Name: Bike\nCategory: Bikes\nModifications: None\nModel name: bike
+Vehicle Model ID: 481\nVehicle Name: BMX\nCategory: Bikes\nModifications: None\nModel name: bmx
+Vehicle Model ID: 462\nVehicle Name: Faggio\nCategory: Bikes\nModifications: None\nModel name: faggio
+Vehicle Model ID: 521\nVehicle Name: FCR-900\nCategory: Bikes\nModifications: None\nModel name: fcr900
+Vehicle Model ID: 463\nVehicle Name: Freeway\nCategory: Bikes\nModifications: None\nModel name: freeway
+Vehicle Model ID: 510\nVehicle Name: Mountain Bike\nCategory: Bikes\nModifications: None\nModel name: mtbike
+Vehicle Model ID: 522\nVehicle Name: NRG-500\nCategory: Bikes\nModifications: None\nModel name: nrg500
+Vehicle Model ID: 461\nVehicle Name: PCJ-600\nCategory: Bikes\nModifications: None\nModel name: pcj600
+Vehicle Model ID: 448\nVehicle Name: Pizzaboy\nCategory: Bikes\nModifications: None\nModel name: pizzaboy
+Vehicle Model ID: 468\nVehicle Name: Sanchez\nCategory: Bikes\nModifications: None\nModel name: sanchez
+Vehicle Model ID: 586\nVehicle Name: Wayfarer\nCategory: Bikes\nModifications: None\nModel name: wayfarer
