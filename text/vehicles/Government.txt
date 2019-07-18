@@ -1,0 +1,13 @@
+Vehicle Model ID: 416\nVehicle Name: Ambulance\nCategory: Public Service\nModifications: None\nModel name: ambulan
+Vehicle Model ID: 433\nVehicle Name: Barracks\nCategory: Public Service\nModifications: None\nModel name: barracks
+Vehicle Model ID: 427\nVehicle Name: Enforcer\nCategory: Public Service\nModifications: None\nModel name: enforcer
+Vehicle Model ID: 528\nVehicle Name: FBI Truck\nCategory: Public Service\nModifications: None\nModel name: fbitruck
+Vehicle Model ID: 490\nVehicle Name: FBI Rancher\nCategory: Public Service\nModifications: None\nModel name: fbiranch
+Vehicle Model ID: 544\nVehicle Name: Firetruck LA\nCategory: Public Service\nModifications: None\nModel name: firela
+Vehicle Model ID: 523\nVehicle Name: HPV1000\nCategory: Public Service\nModifications: None\nModel name: copbike
+Vehicle Model ID: 596\nVehicle Name: Police Car (LSPD)\nCategory: Public Service\nModifications: None\nModel name: copcarla
+Vehicle Model ID: 597\nVehicle Name: Police Car (SFPD)\nCategory: Public Service\nModifications: None\nModel name: copcarsf
+Vehicle Model ID: 598\nVehicle Name: Police Car (LVPD)\nCategory: Public Service\nModifications: None\nModel name: copcarvg
+Vehicle Model ID: 599\nVehicle Name: Police Ranger\nCategory: Public Service\nModifications: None\nModel name: copcarru
+Vehicle Model ID: 432\nVehicle Name: Rhino\nCategory: Public Service\nModifications: None\nModel name: rhino
+Vehicle Model ID: 601\nVehicle Name: S.W.A.T.\nCategory: Public Service\nModifications: None\nModel name: swatvan

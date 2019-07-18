@@ -1,0 +1,22 @@
+Vehicle Model ID: 445\nVehicle Name: Admiral\nCategory: Saloons\nModifications: Transfender\nModel name: admiral
+Vehicle Model ID: 507\nVehicle Name: Elegant\nCategory: Saloons\nModifications: Transfender\nModel name: elegant
+Vehicle Model ID: 585\nVehicle Name: Emperor\nCategory: Saloons\nModifications: Transfender\nModel name: emperor
+Vehicle Model ID: 604\nVehicle Name: Glendale Shit\nCategory: Saloons\nModifications: None\nModel name: glenshit
+Vehicle Model ID: 492\nVehicle Name: Greenwood\nCategory: Saloons\nModifications: Transfender\nModel name: greenwoo
+Vehicle Model ID: 546\nVehicle Name: Intruder\nCategory: Saloons\nModifications: Transfender\nModel name: intruder
+Vehicle Model ID: 551\nVehicle Name: Merit\nCategory: Saloons\nModifications: Transfender\nModel name: merit
+Vehicle Model ID: 516\nVehicle Name: Nebula\nCategory: Saloons\nModifications: Transfender\nModel name: nebula
+Vehicle Model ID: 467\nVehicle Name: Oceanic\nCategory: Saloons\nModifications: Transfender\nModel name: oceanic
+Vehicle Model ID: 404\nVehicle Name: Perennial\nCategory: Station Wagons\nModifications: Transfender\nModel name: peren
+Vehicle Model ID: 426\nVehicle Name: Premier\nCategory: Saloons\nModifications: Transfender\nModel name: premier
+Vehicle Model ID: 547\nVehicle Name: Primo\nCategory: Saloons\nModifications: Transfender\nModel name: primo
+Vehicle Model ID: 479\nVehicle Name: Regina\nCategory: Station Wagons\nModifications: Transfender\nModel name: regina
+Vehicle Model ID: 442\nVehicle Name: Romero\nCategory: Unique Vehicles\nModifications: Transfender\nModel name: romero
+Vehicle Model ID: 405\nVehicle Name: Sentinel\nCategory: Saloons\nModifications: Transfender\nModel name: sentinel
+Vehicle Model ID: 458\nVehicle Name: Solair\nCategory: Station Wagons\nModifications: Transfender\nModel name: solair
+Vehicle Model ID: 580\nVehicle Name: Stafford\nCategory: Saloons\nModifications: Transfender\nModel name: stafford
+Vehicle Model ID: 409\nVehicle Name: Stretch\nCategory: Unique Vehicles\nModifications: Transfender\nModel name: stretch
+Vehicle Model ID: 550\nVehicle Name: Sunrise\nCategory: Saloons\nModifications: Transfender\nModel name: sunrise
+Vehicle Model ID: 540\nVehicle Name: Vincent\nCategory: Saloons\nModifications: Transfender\nModel name: vincent
+\nVehicle Name: Washington\nCategory: Saloons\nModifications: Transfender\nModel name: washing
+Vehicle Model ID: 529\nVehicle Name: Willard\nCategory: Saloons\nModifications: Transfender\nModel name: willard

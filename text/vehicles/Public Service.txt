@@ -1,0 +1,10 @@
+Vehicle Model ID: 485\nVehicle Name: Baggage\nCategory: Unique Vehicles\nModifications: None\nModel name: baggage
+Vehicle Model ID: 431\nVehicle Name: Bus\nCategory: Public Service\nModifications: None\nModel name: bus
+Vehicle Model ID: 438\nVehicle Name: Cabbie\nCategory: Public Service\nModifications: Transfender\nModel name: cabbie
+Vehicle Model ID: 437\nVehicle Name: Coach\nCategory: Public Service\nModifications: None\nModel name: coach
+Vehicle Model ID: 574\nVehicle Name: Sweeper\nCategory: Unique Vehicles\nModifications: None\nModel name: sweeper
+Vehicle Model ID: 420\nVehicle Name: Taxi\nCategory: Public Service\nModifications: Transfender\nModel name: taxi
+Vehicle Model ID: 525\nVehicle Name: Towtruck\nCategory: Unique Vehicles\nModifications: None\nModel name: towtruck
+Vehicle Model ID: 408\nVehicle Name: Trashmaster\nCategory: Industrial\nModifications: None\nModel name: trash
+Vehicle Model ID: 583\nVehicle Name: Tug\nCategory: Unique Vehicles\nModifications: None\nModel name: tug
+Vehicle Model ID: 552\nVehicle Name: Utility Van\nCategory: Industrial\nModifications: None\nModel name: utility

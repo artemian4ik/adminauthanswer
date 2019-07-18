@@ -1,0 +1,16 @@
+Vehicle Model ID: 499\nVehicle Name: Benson\nCategory: Industrial\nModifications: None\nModel name: benson
+Vehicle Model ID: 609\nVehicle Name: Boxville\nCategory: Industrial\nModifications: None\nModel name: boxburg
+Vehicle Model ID: 524\nVehicle Name: Cement Truck\nCategory: Industrial\nModifications: None\nModel name: cement
+Vehicle Model ID: 532\nVehicle Name: Combine Harvester\nCategory: Unique Vehicles\nModifications: None\nModel name: combine
+Vehicle Model ID: 578\nVehicle Name: DFT-30\nCategory: Industrial\nModifications: None\nModel name: dft30
+Vehicle Model ID: 486\nVehicle Name: Dozer\nCategory: Unique Vehicles\nModifications: None\nModel name: dozer
+Vehicle Model ID: 406\nVehicle Name: Dumper\nCategory: Unique Vehicles\nModifications: None\nModel name: dumper
+Vehicle Model ID: 455\nVehicle Name: Flatbed\nCategory: Industrial\nModifications: None\nModel name: flatbed
+Vehicle Model ID: 530\nVehicle Name: Forklift\nCategory: Unique Vehicles\nModifications: None\nModel name: forklift
+Vehicle Model ID: 403\nVehicle Name: Linerunner\nCategory: Industrial\nModifications: None\nModel name: linerun
+Vehicle Model ID: 414\nVehicle Name: Mule\nCategory: Industrial\nModifications: None\nModel name: mule
+Vehicle Model ID: 443\nVehicle Name: Packer\nCategory: Industrial\nModifications: None\nModel name: packer
+Vehicle Model ID: 515\nVehicle Name: Roadtrain\nCategory: Industrial\nModifications: None\nModel name: rdtrain
+Vehicle Model ID: 514\nVehicle Name: Tanker\nCategory: Industrial\nModifications: None\nModel name: petro
+Vehicle Model ID: 531\nVehicle Name: Tractor\nCategory: Industrial\nModifications: None\nModel name: tractor
+Vehicle Model ID: 456\nVehicle Name: Yankee\nCategory: Industrial\nModifications: None\nModel name: yankee

@@ -1,0 +1,8 @@
+Vehicle Model ID: 536\nVehicle Name: Blade\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: blade
+Vehicle Model ID: 575\nVehicle Name: Broadway\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: broadway
+Vehicle Model ID: 534\nVehicle Name: Remington\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: remingtn
+Vehicle Model ID: 567\nVehicle Name: Savanna\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: savanna
+Vehicle Model ID: 535\nVehicle Name: Slamvan\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: slamvan
+Vehicle Model ID: 566\nVehicle Name: Tahoma\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: tahoma
+Vehicle Model ID: 576\nVehicle Name: Tornado\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: tornado
+Vehicle Model ID: 412\nVehicle Name: Voodoo\nCategory: Lowriders\nModifications: Loco Low Co\nModel name: voodoo

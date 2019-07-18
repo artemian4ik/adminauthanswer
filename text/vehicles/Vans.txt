@@ -1,0 +1,9 @@
+Vehicle Model ID: 459\nVehicle Name: Topfun Van (Berkley's RC)\nCategory: Industrial\nModifications: None\nModel name: topfun
+Vehicle Model ID: 482\nVehicle Name: Burrito\nCategory: Industrial\nModifications: None\nModel name: burrito
+Vehicle Model ID: 588\nVehicle Name: Hotdog\nCategory: Unique Vehicles\nModifications: None\nModel name: hotdog
+Vehicle Model ID: 418\nVehicle Name: Moonbeam\nCategory: Station Wagons\nModifications: Transfender\nModel name: moonbeam
+Vehicle Model ID: 423\nVehicle Name: Mr. Whoopee\nCategory: Unique Vehicles\nModifications: None\nModel name: mrwhoop
+Vehicle Model ID: 582\nVehicle Name: Newsvan\nCategory: Industrial\nModifications: None\nModel name: newsvan
+Vehicle Model ID: 413\nVehicle Name: Pony\nCategory: Industrial\nModifications: None\nModel name: pony
+Vehicle Model ID: 440\nVehicle Name: Rumpo\nCategory: Industrial\nModifications: None\nModel name: rumpo
+Vehicle Model ID: 428\nVehicle Name: Securicar\nCategory: Unique Vehicles\nModifications: None\nModel name: securica

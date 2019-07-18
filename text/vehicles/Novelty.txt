@@ -1,0 +1,10 @@
+Vehicle Model ID: 568\nVehicle Name: Bandito\nCategory: Off Road\nModifications: None\nModel name: bandito
+Vehicle Model ID: 424\nVehicle Name: BF Injection\nCategory: Off Road\nModifications: None\nModel name: bfinject
+Vehicle Model ID: 457\nVehicle Name: Caddy\nCategory: Unique Vehicles\nModifications: None\nModel name: caddy
+Vehicle Model ID: 483\nVehicle Name: Camper\nCategory: Unique Vehicles\nModifications: None\nModel name: camper
+Vehicle Model ID: 573\nVehicle Name: Dune\nCategory: Off Road\nModifications: None\nModel name: duneride
+Vehicle Model ID: 508\nVehicle Name: Journey\nCategory: Unique Vehicles\nModifications: None\nModel name: journey
+Vehicle Model ID: 571\nVehicle Name: Kart\nCategory: Unique Vehicles\nModifications: None\nModel name: kart
+Vehicle Model ID: 572\nVehicle Name: Mower\nCategory: Unique Vehicles\nModifications: None\nModel name: mower
+Vehicle Model ID: 471\nVehicle Name: Quad\nCategory: Bikes\nModifications: None\nModel name: quad
+Vehicle Model ID: 539\nVehicle Name: Vortex\nCategory: Unique Vehicles\nModifications: None\nModel name: vortex

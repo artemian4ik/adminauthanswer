@@ -1,0 +1,312 @@
+Skin ID: 0\nSkin Model Name: cj\nSkin Name/Type: Carl "CJ" Johnson (Main Character)\nSingleplayer Location: Anywhere\nGender: Male
+Skin ID: 1\nSkin Model Name: truth\nSkin Name/Type: The Truth\nSingleplayer Location: San Fierro and Las Venturas\nGender: Male
+Skin ID: 2\nSkin Model Name: maccer\nSkin Name/Type: Maccer\nSingleplayer Location: Las Venturas and Los Santos\nGender: Male
+Skin ID: 3\nSkin Model Name: andre\nSkin Name/Type: Andre\nSingleplayer Location: Unknown\nGender: Male
+Skin ID: 4\nSkin Model Name: bbthin\nSkin Name/Type: Barry "Big Bear" Thorne [Thin]\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 5\nSkin Model Name: bb\nSkin Name/Type: Barry "Big Bear" Thorne [Big]\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 6\nSkin Model Name: emmet\nSkin Name/Type: Emmet\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 7\nSkin Model Name: male01\nSkin Name/Type: Taxi Driver/Train Driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 8\nSkin Model Name: janitor\nSkin Name/Type: Janitor\nSingleplayer Location: 4 Dragons Casino\nGender: Male
+Skin ID: 9\nSkin Model Name: bfori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 10\nSkin Model Name: bfost\nSkin Name/Type: Old Woman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 11\nSkin Model Name: vbfycrp\nSkin Name/Type: Casino croupier\nSingleplayer Location: Las Venturas Casinos\nGender: Female
+Skin ID: 12\nSkin Model Name: bfyri\nSkin Name/Type: Rich Woman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 13\nSkin Model Name: bfyst\nSkin Name/Type: Street Girl\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 14\nSkin Model Name: bmori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 15\nSkin Model Name: bmost\nSkin Name/Type: Mr.Whittaker (RS Haul Owner)\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 16\nSkin Model Name: bmyap\nSkin Name/Type: Airport Ground Worker\nSingleplayer Location: Airports\nGender: Male
+Skin ID: 17\nSkin Model Name: bmybu\nSkin Name/Type: Businessman\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 18\nSkin Model Name: bmybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Male
+Skin ID: 19\nSkin Model Name: bmydj\nSkin Name/Type: DJ\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 20\nSkin Model Name: bmyri\nSkin Name/Type: Rich Guy (Madd Dogg's Manager)\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 21\nSkin Model Name: bmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 22\nSkin Model Name: bmyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 23\nSkin Model Name: wmybmx\nSkin Name/Type: BMXer\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 24\nSkin Model Name: wbdyg1\nSkin Name/Type: Madd Dogg Bodyguard\nSingleplayer Location: Madd Dogg's Mansion\nGender: Male
+Skin ID: 25\nSkin Model Name: wbdyg2\nSkin Name/Type: Madd Dogg Bodyguard\nSingleplayer Location: Madd Dogg's Mansion\nGender: Male
+Skin ID: 26\nSkin Model Name: wmybp\nSkin Name/Type: Backpacker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 27\nSkin Model Name: wmycon\nSkin Name/Type: Construction Worker\nSingleplayer Location: Doherty\nGender: Male
+Skin ID: 28\nSkin Model Name: bmydrug\nSkin Name/Type: Drug Dealer\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 29\nSkin Model Name: wmydrug\nSkin Name/Type: Drug Dealer\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 30\nSkin Model Name: hmydrug\nSkin Name/Type: Drug Dealer\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 31\nSkin Model Name: dwfolc\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 32\nSkin Model Name: dwmolc1\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 33\nSkin Model Name: dwmolc2\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 34\nSkin Model Name: dwmylc1\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 35\nSkin Model Name: hmogar\nSkin Name/Type: Gardener\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 36\nSkin Model Name: wmygol1\nSkin Name/Type: Golfer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 37\nSkin Model Name: wmygol2\nSkin Name/Type: Golfer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 38\nSkin Model Name: hfori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 39\nSkin Model Name: hfost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 40\nSkin Model Name: hfyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 41\nSkin Model Name: hfyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 42\nSkin Model Name: jethro\nSkin Name/Type: Jethro\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 43\nSkin Model Name: hmori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 44\nSkin Model Name: hmost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 45\nSkin Model Name: hmybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Male
+Skin ID: 46\nSkin Model Name: hmyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 47\nSkin Model Name: hmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 48\nSkin Model Name: hmyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 49\nSkin Model Name: omokung\nSkin Name/Type: Snakehead (Da Nang)\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 50\nSkin Model Name: wmymech\nSkin Name/Type: Mechanic\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 51\nSkin Model Name: bmymoun\nSkin Name/Type: Mountain Biker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 52\nSkin Model Name: wmymoun\nSkin Name/Type: Mountain Biker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 53\nSkin Model Name: ofori\nSkin Name/Type: Unknown\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 54\nSkin Model Name: ofost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 55\nSkin Model Name: ofyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 56\nSkin Model Name: ofyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 57\nSkin Model Name: omori\nSkin Name/Type: Oriental Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 58\nSkin Model Name: omost\nSkin Name/Type: Oriental Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 59\nSkin Model Name: omyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 60\nSkin Model Name: omyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 61\nSkin Model Name: wmyplt\nSkin Name/Type: Pilot\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 62\nSkin Model Name: wmopj\nSkin Name/Type: Colonel Fuhrberger\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 63\nSkin Model Name: bfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 64\nSkin Model Name: hfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 65\nSkin Model Name: kendl\nSkin Name/Type: Kendl Johnson\nSingleplayer Location: Los Santos and San Fierro\nGender: Female
+Skin ID: 66\nSkin Model Name: bmypol1\nSkin Name/Type: Pool Player\nSingleplayer Location: Bars\nGender: Male
+Skin ID: 67\nSkin Model Name: bmypol2\nSkin Name/Type: Pool Player\nSingleplayer Location: Bars, Works at Dillimore Gas Station\nGender: Male
+Skin ID: 68\nSkin Model Name: wmoprea\nSkin Name/Type: Priest/Preacher\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 69\nSkin Model Name: sbfyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 70\nSkin Model Name: wmosci\nSkin Name/Type: Scientist\nSingleplayer Location: Area 69\nGender: Male
+Skin ID: 71\nSkin Model Name: wmysgrd\nSkin Name/Type: Security Guard\nSingleplayer Location: Airport Guard Boxes\nGender: Male
+Skin ID: 72\nSkin Model Name: swmyhp1\nSkin Name/Type: Hippy\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 73\nSkin Model Name: swmyhp2\nSkin Name/Type: Hippy\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 74\nSkin Model Name: -\nSkin Name/Type: -\nSingleplayer Location: -\nGender: -
+Skin ID: 75\nSkin Model Name: swfopro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 76\nSkin Model Name: wfystew\nSkin Name/Type: Stewardess\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 77\nSkin Model Name: swmotr1\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 78\nSkin Model Name: wmotr1\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 79\nSkin Model Name: bmotr1\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 80\nSkin Model Name: vbmybox\nSkin Name/Type: Boxer\nSingleplayer Location: San Andreas Gyms\nGender: Male
+Skin ID: 81\nSkin Model Name: vwmybox\nSkin Name/Type: Boxer\nSingleplayer Location: San Andreas Gyms\nGender: Male
+Skin ID: 82\nSkin Model Name: vhmyelv\nSkin Name/Type: Black Elvis\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 83\nSkin Model Name: vbmyelv\nSkin Name/Type: White Elvis\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 84\nSkin Model Name: vimyelv\nSkin Name/Type: Blue Elvis\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 85\nSkin Model Name: vwfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 86\nSkin Model Name: ryder3\nSkin Name/Type: Ryder with robbery mask\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 87\nSkin Model Name: vwfyst1\nSkin Name/Type: Stripper\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 88\nSkin Model Name: wfori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 89\nSkin Model Name: wfost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 90\nSkin Model Name: wfyjg\nSkin Name/Type: Jogger\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 91\nSkin Model Name: wfyri\nSkin Name/Type: Rich Woman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 92\nSkin Model Name: wfyro\nSkin Name/Type: Rollerskater\nSingleplayer Location: Beaches of SA\nGender: Female
+Skin ID: 93\nSkin Model Name: wfyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 94\nSkin Model Name: wmori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 95\nSkin Model Name: wmost\nSkin Name/Type: Normal Ped, Works at or owns Dillimore Gas Station\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 96\nSkin Model Name: wmyjg\nSkin Name/Type: Jogger\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 97\nSkin Model Name: wmylg\nSkin Name/Type: Lifeguard\nSingleplayer Location: Beaches\nGender: Male
+Skin ID: 98\nSkin Model Name: wmyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 99\nSkin Model Name: wmyro\nSkin Name/Type: Rollerskater\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 100\nSkin Model Name: wmycr\nSkin Name/Type: Biker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 101\nSkin Model Name: wmyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 102\nSkin Model Name: ballas1\nSkin Name/Type: Balla\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 103\nSkin Model Name: ballas2\nSkin Name/Type: Balla\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 104\nSkin Model Name: ballas3\nSkin Name/Type: Balla\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 105\nSkin Model Name: fam1\nSkin Name/Type: Grove Street Families\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 106\nSkin Model Name: fam2\nSkin Name/Type: Grove Street Families\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 107\nSkin Model Name: fam3\nSkin Name/Type: Grove Street Families\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 108\nSkin Model Name: lsv1\nSkin Name/Type: Los Santos Vagos\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 109\nSkin Model Name: lsv2\nSkin Name/Type: Los Santos Vagos\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 110\nSkin Model Name: lsv3\nSkin Name/Type: Los Santos Vagos\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 111\nSkin Model Name: maffa\nSkin Name/Type: The Russian Mafia\nSingleplayer Location: Around SA\nGender: Male
+Skin ID: 112\nSkin Model Name: maffb\nSkin Name/Type: The Russian Mafia\nSingleplayer Location: Around SA\nGender: Male
+Skin ID: 113\nSkin Model Name: mafboss\nSkin Name/Type: The Russian Mafia\nSingleplayer Location: Around SA\nGender: Male
+Skin ID: 114\nSkin Model Name: vla1\nSkin Name/Type: Varios Los Aztecas\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 115\nSkin Model Name: vla2\nSkin Name/Type: Varios Los Aztecas\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 116\nSkin Model Name: vla3\nSkin Name/Type: Varios Los Aztecas\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 117\nSkin Model Name: triada\nSkin Name/Type: Triad\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 118\nSkin Model Name: triadb\nSkin Name/Type: Triad\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 119\nSkin Model Name: sindaco\nSkin Name/Type: Johhny Sindacco\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 120\nSkin Model Name: triboss\nSkin Name/Type: Triad Boss\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 121\nSkin Model Name: dnb1\nSkin Name/Type: Da Nang Boy\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 122\nSkin Model Name: dnb2\nSkin Name/Type: Da Nang Boy\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 123\nSkin Model Name: dnb3\nSkin Name/Type: Da Nang Boy\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 124\nSkin Model Name: vmaff1\nSkin Name/Type: The Mafia\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 125\nSkin Model Name: vmaff2\nSkin Name/Type: The Mafia\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 126\nSkin Model Name: vmaff3\nSkin Name/Type: The Mafia\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 127\nSkin Model Name: vmaff4\nSkin Name/Type: The Mafia\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 128\nSkin Model Name: dnmylc\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 129\nSkin Model Name: dnfolc1\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 130\nSkin Model Name: dnfolc2\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 131\nSkin Model Name: dnfylc\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 132\nSkin Model Name: dnmolc1\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 133\nSkin Model Name: dnmolc2\nSkin Name/Type: Farm Inhabitant\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 134\nSkin Model Name: sbmotr2\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 135\nSkin Model Name: swmotr2\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 136\nSkin Model Name: sbmytr3\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 137\nSkin Model Name: swmotr3\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 138\nSkin Model Name: wfybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Female
+Skin ID: 139\nSkin Model Name: bfybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Female
+Skin ID: 140\nSkin Model Name: hfybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Female
+Skin ID: 141\nSkin Model Name: sofybu\nSkin Name/Type: Businesswoman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 142\nSkin Model Name: sbmyst\nSkin Name/Type: Taxi Driver\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 143\nSkin Model Name: sbmycr\nSkin Name/Type: Crack Maker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 144\nSkin Model Name: bmycg\nSkin Name/Type: Crack Maker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 145\nSkin Model Name: wfycrk\nSkin Name/Type: Crack Maker\nSingleplayer Location: Beaches of SA\nGender: Female
+Skin ID: 146\nSkin Model Name: hmycm\nSkin Name/Type: Crack Maker\nSingleplayer Location: Beaches of SA\nGender: Male
+Skin ID: 147\nSkin Model Name: wmybu\nSkin Name/Type: Businessman\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 148\nSkin Model Name: bfybu\nSkin Name/Type: Businesswoman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 149\nSkin Model Name: smokev\nSkin Name/Type: Big Smoke Armored\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 150\nSkin Model Name: wfybu\nSkin Name/Type: Businesswoman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 151\nSkin Model Name: dwfylc1\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 152\nSkin Model Name: wfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 153\nSkin Model Name: wmyconb\nSkin Name/Type: Construction Worker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 154\nSkin Model Name: wmybe\nSkin Name/Type: Beach Visitor\nSingleplayer Location: Beaches of SA\nGender: Male
+Skin ID: 155\nSkin Model Name: wmypizz\nSkin Name/Type: Well Stacked Pizza Worker\nSingleplayer Location: Well Stacked Pizza co.\nGender: Male
+Skin ID: 156\nSkin Model Name: bmobar\nSkin Name/Type: Barber\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 157\nSkin Model Name: cwfyhb\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 158\nSkin Model Name: cwmofr\nSkin Name/Type: Farmer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 159\nSkin Model Name: cwmohb1\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 160\nSkin Model Name: cwmohb2\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 161\nSkin Model Name: cwmyfr\nSkin Name/Type: Farmer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 162\nSkin Model Name: cwmyhb1\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 163\nSkin Model Name: bmyboun\nSkin Name/Type: Black Bouncer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 164\nSkin Model Name: wmyboun\nSkin Name/Type: White Bouncer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 165\nSkin Model Name: wmomib\nSkin Name/Type: White MIB agent\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 166\nSkin Model Name: bmymib\nSkin Name/Type: Black MIB agent\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 167\nSkin Model Name: wmybell\nSkin Name/Type: Cluckin' Bell Worker\nSingleplayer Location: Cluckin' Bell\nGender: Male
+Skin ID: 168\nSkin Model Name: bmochil\nSkin Name/Type: Hotdog/Chilli Dog Vendor\nSingleplayer Location: Hotdog vans and chilli dog carts\nGender: Male
+Skin ID: 169\nSkin Model Name: sofyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 170\nSkin Model Name: somyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 171\nSkin Model Name: vwmybjd\nSkin Name/Type: Blackjack Dealer\nSingleplayer Location: Casinos\nGender: Male
+Skin ID: 172\nSkin Model Name: vwfycrp\nSkin Name/Type: Casino croupier\nSingleplayer Location: Casinos\nGender: Female
+Skin ID: 173\nSkin Model Name: sfr1\nSkin Name/Type: San Fierro Rifa\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 174\nSkin Model Name: sfr2\nSkin Name/Type: San Fierro Rifa\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 175\nSkin Model Name: sfr3\nSkin Name/Type: San Fierro Rifa\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 176\nSkin Model Name: bmybar\nSkin Name/Type: Barber\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 177\nSkin Model Name: wmybar\nSkin Name/Type: Barber\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 178\nSkin Model Name: wfysex\nSkin Name/Type: Whore\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 179\nSkin Model Name: wmyammo\nSkin Name/Type: Ammunation Salesman\nSingleplayer Location: Ammunation\nGender: Male
+Skin ID: 180\nSkin Model Name: bmytatt\nSkin Name/Type: Tattoo Artist\nSingleplayer Location: Tattoo Shops\nGender: Male
+Skin ID: 181\nSkin Model Name: vwmycr\nSkin Name/Type: Punk\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 182\nSkin Model Name: vbmocd\nSkin Name/Type: Cab Driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 183\nSkin Model Name: vbmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 184\nSkin Model Name: vhmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 185\nSkin Model Name: sbmyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 186\nSkin Model Name: somyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 187\nSkin Model Name: somybu\nSkin Name/Type: Businessman\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 188\nSkin Model Name: swmyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 189\nSkin Model Name: wmyva\nSkin Name/Type: Valet\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 190\nSkin Model Name: copgrl3\nSkin Name/Type: Barbara Schternvart\nSingleplayer Location: El Quebrados\nGender: Female
+Skin ID: 191\nSkin Model Name: gungrl3\nSkin Name/Type: Helena Wankstein\nSingleplayer Location: Blueberry\nGender: Female
+Skin ID: 192\nSkin Model Name: mecgrl3\nSkin Name/Type: Michelle Cannes\nSingleplayer Location: San Fierro\nGender: Female
+Skin ID: 193\nSkin Model Name: nurgrl3\nSkin Name/Type: Katie Zhan\nSingleplayer Location: San Fierro\nGender: Female
+Skin ID: 194\nSkin Model Name: crogrl3\nSkin Name/Type: Millie Perkins\nSingleplayer Location: Las Venturas\nGender: Female
+Skin ID: 195\nSkin Model Name: gangrl3\nSkin Name/Type: Denise Robinson\nSingleplayer Location: Los Santos\nGender: Female
+Skin ID: 196\nSkin Model Name: cwfofr\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 197\nSkin Model Name: cwfohb\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 198\nSkin Model Name: cwfyfr1\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 199\nSkin Model Name: cwfyfr2\nSkin Name/Type: Farm-Town inhabitant\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 200\nSkin Model Name: cwmyhb2\nSkin Name/Type: Hillbilly\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 201\nSkin Model Name: dwfylc2\nSkin Name/Type: Farmer\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 202\nSkin Model Name: dwmylc2\nSkin Name/Type: Farmer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 203\nSkin Model Name: omykara\nSkin Name/Type: Karate Teacher\nSingleplayer Location: San Fierro Gym\nGender: Male
+Skin ID: 204\nSkin Model Name: wmykara\nSkin Name/Type: Karate Teacher\nSingleplayer Location: San Fierro Gym\nGender: Male
+Skin ID: 205\nSkin Model Name: wfyburg\nSkin Name/Type: Burger Shot Cashier\nSingleplayer Location: Burger Shot\nGender: Female
+Skin ID: 206\nSkin Model Name: vwmycd\nSkin Name/Type: Cab Driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 207\nSkin Model Name: vhfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 208\nSkin Model Name: suzie\nSkin Name/Type: Su Xi Mu (Suzie)\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 209\nSkin Model Name: omonood\nSkin Name/Type: Oriental Noodle stand vendor\nSingleplayer Location: Noodle stands\nGender: Male
+Skin ID: 210\nSkin Model Name: omoboat\nSkin Name/Type: Oriental Boating School Instructor\nSingleplayer Location: Boating School\nGender: Male
+Skin ID: 211\nSkin Model Name: wfyclot\nSkin Name/Type: Clothes shop staff\nSingleplayer Location: Clothes shops\nGender: Female
+Skin ID: 212\nSkin Model Name: vwmotr1\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 213\nSkin Model Name: vwmotr2\nSkin Name/Type: Weird old man\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 214\nSkin Model Name: vwfywai\nSkin Name/Type: Waitress (Maria Latore)\nSingleplayer Location: Caligulas Casino (cutscene only)\nGender: Female
+Skin ID: 215\nSkin Model Name: sbfori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 216\nSkin Model Name: swfyri\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 217\nSkin Model Name: wmyclot\nSkin Name/Type: Clothes shop staff\nSingleplayer Location: Clothes shops\nGender: Male
+Skin ID: 218\nSkin Model Name: sbfost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 219\nSkin Model Name: sbfyri\nSkin Name/Type: Rich Woman\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 220\nSkin Model Name: sbmocd\nSkin Name/Type: Cab Driver\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 221\nSkin Model Name: sbmori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 222\nSkin Model Name: sbmost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 223\nSkin Model Name: shmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 224\nSkin Model Name: sofori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 225\nSkin Model Name: sofost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 226\nSkin Model Name: sofyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 227\nSkin Model Name: somobu\nSkin Name/Type: Oriental Businessman\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 228\nSkin Model Name: somori\nSkin Name/Type: Oriental Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 229\nSkin Model Name: somost\nSkin Name/Type: Oriental Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 230\nSkin Model Name: swmotr5\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 231\nSkin Model Name: swfori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 232\nSkin Model Name: swfost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 233\nSkin Model Name: swfyst\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 234\nSkin Model Name: swmocd\nSkin Name/Type: Cab Driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 235\nSkin Model Name: swmori\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 236\nSkin Model Name: swmost\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 237\nSkin Model Name: shfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 238\nSkin Model Name: sbfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 239\nSkin Model Name: swmotr4\nSkin Name/Type: Homeless\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 240\nSkin Model Name: swmyri\nSkin Name/Type: The D.A\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 241\nSkin Model Name: smyst\nSkin Name/Type: Afro-American\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 242\nSkin Model Name: smyst2\nSkin Name/Type: Mexican\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 243\nSkin Model Name: sfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 244\nSkin Model Name: vbfyst2\nSkin Name/Type: Stripper\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 245\nSkin Model Name: vbfypro\nSkin Name/Type: Prostitute\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 246\nSkin Model Name: vhfyst3\nSkin Name/Type: Stripper\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 247\nSkin Model Name: bikera\nSkin Name/Type: Biker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 248\nSkin Model Name: bikerb\nSkin Name/Type: Biker\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 249\nSkin Model Name: bmypimp\nSkin Name/Type: Pimp\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 250\nSkin Model Name: swmycr\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 251\nSkin Model Name: wfylg\nSkin Name/Type: Lifeguard\nSingleplayer Location: Beaches\nGender: Female
+Skin ID: 252\nSkin Model Name: wmyva2\nSkin Name/Type: Naked Valet\nSingleplayer Location: San Fierro (mission only)|Gender: Male
+Skin ID: 253\nSkin Model Name: bmosec\nSkin Name/Type: Bus Driver\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 254\nSkin Model Name: bikdrug\nSkin Name/Type: Biker Drug Dealer\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 255\nSkin Model Name: wmych\nSkin Name/Type: Chauffeur (Limo Driver)\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 256\nSkin Model Name: sbfystr\nSkin Name/Type: Stripper\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 257\nSkin Model Name: swfystr\nSkin Name/Type: Stripper\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 258\nSkin Model Name: heck1\nSkin Name/Type: Heckler\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 259\nSkin Model Name: heck2\nSkin Name/Type: Heckler\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 260\nSkin Model Name: bmycon\nSkin Name/Type: Construction Worker\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 261\nSkin Model Name: wmycd1\nSkin Name/Type: Cab driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 262\nSkin Model Name: bmocd\nSkin Name/Type: Cab driver\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 263\nSkin Model Name: vwfywa2\nSkin Name/Type: Normal Ped\nSingleplayer Location: San Andreas\nGender: Female
+Skin ID: 264\nSkin Model Name: wmoice\nSkin Name/Type: Clown (Ice-cream Van Driver)\nSingleplayer Location: San Andreas (Driving ice-cream vans (Mr.Whoopee))\nGender: Male
+Skin ID: 265\nSkin Model Name: tenpen\nSkin Name/Type: Officer Frank Tenpenny (Corrupt Cop)\nSingleplayer Location: Missions\nGender: Male
+Skin ID: 266\nSkin Model Name: pulaski\nSkin Name/Type: Officer Eddie Pulaski (Corrupt Cop)\nSingleplayer Location: Missions\nGender: Male
+Skin ID: 267\nSkin Model Name: hern\nSkin Name/Type: Officer Jimmy Hernandez\nSingleplayer Location: Missions\nGender: Male
+Skin ID: 268\nSkin Model Name: dwayne\nSkin Name/Type: Dwaine/Dwayne\nSingleplayer Location: San Fierro (Missions)\nGender: Male
+Skin ID: 269\nSkin Model Name: smoke\nSkin Name/Type: Melvin "Big Smoke" Harris (Mission)\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 270\nSkin Model Name: sweet\nSkin Name/Type: Sean 'Sweet' Johnson\nSingleplayer Location: Los Santos/San Fierro (Missions)\nGender: Male
+Skin ID: 271\nSkin Model Name: ryder\nSkin Name/Type: Lance 'Ryder' Wilson\nSingleplayer Location: Los Santos/San Fierro (Missions)\nGender: Male
+Skin ID: 272\nSkin Model Name: forelli\nSkin Name/Type: Mafia Boss\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 273\nSkin Model Name: tbone\nSkin Name/Type: T-Bone Mendez\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 274\nSkin Model Name: laemt1\nSkin Name/Type: Paramedic (Emergency Medical Technician)\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 275\nSkin Model Name: lvemt1\nSkin Name/Type: Paramedic (Emergency Medical Technician)\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 276\nSkin Model Name: sfemt1\nSkin Name/Type: Paramedic (Emergency Medical Technician)\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 277\nSkin Model Name: lafd1\nSkin Name/Type: Firefighter\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 278\nSkin Model Name: lvfd1\nSkin Name/Type: Firefighter\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 279\nSkin Model Name: sffd1\nSkin Name/Type: Firefighter\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 280\nSkin Model Name: lapd1\nSkin Name/Type: Los Santos Police Officer\nSingleplayer Location: Los Santos\nGender: Male
+Skin ID: 281\nSkin Model Name: sfpd1\nSkin Name/Type: San Fierro Police Officer\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 282\nSkin Model Name: lvpd1\nSkin Name/Type: Las Venturas Police Officer\nSingleplayer Location: Las Venturas\nGender: Male
+Skin ID: 283\nSkin Model Name: csher\nSkin Name/Type: County Sheriff\nSingleplayer Location: Countryside\nGender: Male
+Skin ID: 284\nSkin Model Name: lapdm1\nSkin Name/Type: LSPD Motorbike Cop\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 285\nSkin Model Name: swat\nSkin Name/Type: S.W.A.T Special Forces\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 286\nSkin Model Name: fbi\nSkin Name/Type: Federal Agent\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 287\nSkin Model Name: army\nSkin Name/Type: San Andreas Army\nSingleplayer Location: San Andreas\nGender: Male
+Skin ID: 288\nSkin Model Name: dsher\nSkin Name/Type: Desert Sheriff\nSingleplayer Location: Desert\nGender: Male
+Skin ID: 289\nSkin Model Name: zero\nSkin Name/Type: Zero\nSingleplayer Location: San Fierro\nGender: Male
+Skin ID: 290\nSkin Model Name: rose\nSkin Name/Type: Ken Rosenberg\nSingleplayer Location: Las-Venturas Casino\nGender: Male
+Skin ID: 291\nSkin Model Name: paul\nSkin Name/Type: Kent Paul\nSingleplayer Location: LV/LS\nGender: Male
+Skin ID: 292\nSkin Model Name: cesar\nSkin Name/Type: Cesar Vialpando\nSingleplayer Location: LS/SF\nGender: Male
+Skin ID: 293\nSkin Model Name: ogloc\nSkin Name/Type: Jeffery "OG Loc" Martin/Cross\nSingleplayer Location: Los-Santos, Burger Shot\nGender: Male
+Skin ID: 294\nSkin Model Name: wuzimu\nSkin Name/Type: Wu Zi Mu (Woozie)\nSingleplayer Location: San Fierro and Las Venturas\nGender: Male
+Skin ID: 295\nSkin Model Name: torino\nSkin Name/Type: Michael Toreno\nSingleplayer Location: Las Venturas and San Fierro\nGender: Male
+Skin ID: 296\nSkin Model Name: jizzy\nSkin Name/Type: Jizzy B.\nSingleplayer Location: San Fierro, The Pleasure Domes\nGender: Male
+Skin ID: 297\nSkin Model Name: maddogg\nSkin Name/Type: Madd Dogg\nSingleplayer Location: Madd Dogg's Mansion, Los Santos\nGender: Male
+Skin ID: 298\nSkin Model Name: cat\nSkin Name/Type: Catalina\nSingleplayer Location: Fern Ridge\nGender: Female
+Skin ID: 299\nSkin Model Name: claude\nSkin Name/Type: Claude Speed\nSingleplayer Location: Cutscene Only\nGender: Male
+Skin ID: 300\nSkin Model Name: lapdna\nSkin Name/Type: Los Santos Police Officer (Without gun holster)\nSingleplayer Location: -\nGender: Male
+Skin ID: 301\nSkin Model Name: sfpdna\nSkin Name/Type: San Fierro Police Officer (Without gun holster)\nSingleplayer Location: -\nGender: Male
+Skin ID: 302\nSkin Model Name: lvpdna\nSkin Name/Type: Las Venturas Police Officer (Without gun holster)\nSingleplayer Location: -\nGender: Male
+Skin ID: 303\nSkin Model Name: lapdpc\nSkin Name/Type: Los Santos Police Officer (Without uniform)\nSingleplayer Location: -\nGender: Male
+Skin ID: 304\nSkin Model Name: lapdpd\nSkin Name/Type: Los Santos Police Officer (Without uniform)\nSingleplayer Location: -\nGender: Male
+Skin ID: 305\nSkin Model Name: lvpdpc\nSkin Name/Type: Las Venturas Police Officer (Without uniform)\nSingleplayer Location: -\nGender: Male
+Skin ID: 306\nSkin Model Name: wfyclpd\nSkin Name/Type: Los Santos Police Officer\nSingleplayer Location: -\nGender: Female
+Skin ID: 307\nSkin Model Name: vbfycpd\nSkin Name/Type: San Fierro Police Officer\nSingleplayer Location: -\nGender: Female
+Skin ID: 308\nSkin Model Name: wfyclem\nSkin Name/Type: San Fierro Paramedic (Emergency Medical Technician)\nSingleplayer Location: -\nGender: Female
+Skin ID: 309\nSkin Model Name: wfycllv\nSkin Name/Type: Las Venturas Police Officer\nSingleplayer Location: -\nGender: Female
+Skin ID: 310\nSkin Model Name: csherna\nSkin Name/Type: Country Sheriff (Without hat)\nSingleplayer Location: -\nGender: Male
+Skin ID: 311\nSkin Model Name: dsherna\nSkin Name/Type: Desert Sheriff (Without hat)\nSingleplayer Location: -\nGender: Male

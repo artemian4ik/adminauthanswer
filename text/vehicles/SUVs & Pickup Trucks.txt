@@ -1,0 +1,14 @@
+Vehicle Model ID: 422\nVehicle Name: Bobcat\nCategory: Industrial\nModifications: Transfender\nModel name: bobcat
+Vehicle Model ID: 579\nVehicle Name: Huntley\nCategory: Off Road\nModifications: Transfender\nModel name: huntley
+Vehicle Model ID: 400\nVehicle Name: Landstalker\nCategory: Off Road\nModifications: Transfender\nModel name: landstal
+Vehicle Model ID: 500\nVehicle Name: Mesa\nCategory: Off Road\nModifications: Transfender\nModel name: mesa
+Vehicle Model ID: 444\nVehicle Name: Monster\nCategory: Off Road\nModifications: None\nModel name: monster
+Vehicle Model ID: 556\nVehicle Name: Monster "A"\nCategory: Off Road\nModifications: None\nModel name: monstera
+Vehicle Model ID: 557\nVehicle Name: Monster "B"\nCategory: Off Road\nModifications: None\nModel name: monsterb
+Vehicle Model ID: 470\nVehicle Name: Patriot\nCategory: Off Road\nModifications: None\nModel name: patriot
+Vehicle Model ID: 600\nVehicle Name: Picador\nCategory: Industrial\nModifications: Transfender\nModel name: picador
+Vehicle Model ID: 505\nVehicle Name: Rancher Lure\nCategory: Off Road\nModifications: None\nModel name: rnchlure
+Vehicle Model ID: 543\nVehicle Name: Sadler\nCategory: Industrial\nModifications: None\nModel name: sadler
+Vehicle Model ID: 495\nVehicle Name: Sandking\nCategory: Off Road\nModifications: None\nModel name: sandking
+Vehicle Model ID: 478\nVehicle Name: Walton\nCategory: Industrial\nModifications: Transfender\nModel name: walton
+Vehicle Model ID: 554\nVehicle Name: Yosemite\nCategory: Industrial\nModifications: None\nModel name: yosemite

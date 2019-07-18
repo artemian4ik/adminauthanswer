@@ -1,0 +1,18 @@
+Vehicle Model ID: 496\nVehicle Name: Blista Compact\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: blistac
+Vehicle Model ID: 401\nVehicle Name: Bravura\nCategory: Saloons\nModifications: Transfender\nModel name: bravura
+Vehicle Model ID: 518\nVehicle Name: Buccaneer\nCategory: Saloons\nModifications: Transfender\nModel name: buccanee
+Vehicle Model ID: 527\nVehicle Name: Cadrona\nCategory: Saloons\nModifications: Transfender\nModel name: cadrona
+Vehicle Model ID: 542\nVehicle Name: Clover\nCategory: Saloons\nModifications: Transfender\nModel name: clover
+Vehicle Model ID: 589\nVehicle Name: Club\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: club
+Vehicle Model ID: 419\nVehicle Name: Esperanto\nCategory: Saloons\nModifications: Transfender\nModel name: esperant
+Vehicle Model ID: 533\nVehicle Name: Feltzer\nCategory: Convertibles\nModifications: Transfender\nModel name: feltzer
+Vehicle Model ID: 526\nVehicle Name: Fortune\nCategory: Saloons\nModifications: Transfender\nModel name: fortune
+Vehicle Model ID: 474\nVehicle Name: Hermes\nCategory: Saloons\nModifications: Transfender\nModel name: hermes
+Vehicle Model ID: 545\nVehicle Name: Hustler\nCategory: Unique Vehicles\nModifications: Transfender\nModel name: hustler
+Vehicle Model ID: 517\nVehicle Name: Majestic\nCategory: Saloons\nModifications: Transfender\nModel name: majestic
+Vehicle Model ID: 410\nVehicle Name: Manana\nCategory: Saloons\nModifications: Transfender\nModel name: manana
+Vehicle Model ID: 436\nVehicle Name: Previon\nCategory: Saloons\nModifications: Transfender\nModel name: previon
+Vehicle Model ID: 475\nVehicle Name: Sabre\nCategory: Sport Vehicles\nModifications: Transfender\nModel name: sabre
+Vehicle Model ID: 439\nVehicle Name: Stallion\nCategory: Convertibles\nModifications: Transfender\nModel name: stallion
+Vehicle Model ID: 549\nVehicle Name: Tampa\nCategory: Saloons\nModifications: Transfender\nModel name: tampa
+Vehicle Model ID: 491\nVehicle Name: Virgo\nCategory: Saloons\nModifications: Transfender\nModel name: virgo
