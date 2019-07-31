@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 5,
-  "globalversion3": 5,
+  "globalversion3": 6,
   "update": "Список изменений:\n\n- Отображается список обновлений\n- Корректно теперь работает рестарт скрипта\n- Исправлен баг с nil при /findos"
 }
