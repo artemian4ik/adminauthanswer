@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 5,
-  "globalversion3": 10,
+  "globalversion3": 11,
   "update": "Список изменений:\n\n- добавил пункт в настройках по отключению нового SP\n- пофиксил мышку\n- /agethere [id] [id] [id] - тп к себе список людей\n- /templeader и /tempwork добавил (без указания ид)\n- добавил askill в список панели"
 }
