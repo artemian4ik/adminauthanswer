@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 5,
-  "globalversion3": 9,
-  "update": "Список изменений:\n\n- обновил /sp"
+  "globalversion3": 10,
+  "update": "Список изменений:\n\n- добавил пункт в настройках по отключению нового SP\n- пофиксил мышку"
 }
