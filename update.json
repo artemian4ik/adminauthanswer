@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 5,
-  "globalversion3": 14,
+  "globalversion3": 15,
   "update": "Список изменений:\n\n- /agethere [id] [id] [id] - тп к себе список людей\n- /templeader и /tempwork добавил (без указания ид)\n- добавил askill в список панели\n- /spoff добавил\n- Shift + E добавил для выхода с SP"
 }
