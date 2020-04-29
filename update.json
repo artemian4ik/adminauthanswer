@@ -1,6 +1,6 @@
 {
   "globalversion1": 0,
   "globalversion2": 6,
-  "globalversion3": 2,
-  "update": "Список изменений:\n - Возможность отключение"
+  "globalversion3": 4,
+  "update": "Список изменений:\n - Добавлены возможности отключение читов в настройках (читы)\n - Фикс Shift + R (уход в СП)\n - Fix /gt\n - добавлена работа на Lime Server"
 }
