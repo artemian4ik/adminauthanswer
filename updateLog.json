@@ -1,6 +1,6 @@
 {
-  "globalversion1": 1,
+  "globalversion1": 0,
   "globalversion2": 0,
-  "globalversion3": 3,
+  "globalversion3": 0,
   "update": "Список изменений 1.0.3:\n-исправлена проблема с кодировкой\n- обновлен хостинг. Работа идет по новому адресу"
 }
